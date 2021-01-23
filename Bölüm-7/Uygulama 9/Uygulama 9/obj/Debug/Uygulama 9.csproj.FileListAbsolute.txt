@@ -1,0 +1,10 @@
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\bin\Debug\Uygulama 9.exe.config
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\bin\Debug\Uygulama 9.exe
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\bin\Debug\Uygulama 9.pdb
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama 9.csprojAssemblyReference.cache
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama_9.Form1.resources
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama_9.Properties.Resources.resources
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama 9.csproj.GenerateResource.cache
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama 9.csproj.CoreCompileInputs.cache
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama 9.exe
+C:\C# Exercises\Bölüm-7\Uygulama 9\Uygulama 9\obj\Debug\Uygulama 9.pdb
