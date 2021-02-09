@@ -1,0 +1,10 @@
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\bin\Debug\Uygulama 17.exe.config
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\bin\Debug\Uygulama 17.exe
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\bin\Debug\Uygulama 17.pdb
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama 17.csprojAssemblyReference.cache
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama_17.Form1.resources
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama_17.Properties.Resources.resources
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama 17.csproj.GenerateResource.cache
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama 17.csproj.CoreCompileInputs.cache
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama 17.exe
+C:\C# Exercises\Bölüm-7\Uygulama 17\Uygulama 17\obj\Debug\Uygulama 17.pdb
