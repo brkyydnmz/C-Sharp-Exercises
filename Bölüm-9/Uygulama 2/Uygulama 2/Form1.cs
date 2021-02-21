@@ -20,9 +20,9 @@ namespace Uygulama_2
         private void button1_Click(object sender, EventArgs e)
         {
             Ogrenci ogr = new Ogrenci();  //ogr nesnsini ürettik class ı newleyerek
-            ogr.ad = textBox1.Text;
-            ogr.soyad = textBox2.Text;
-            ogr.kulup = textBox3.Text;
+            ogr.ADI = textBox1.Text;
+            ogr.SOYADI = textBox2.Text;
+            ogr.KULUBU = textBox3.Text;  //değişkenlerimizi private yaptığımız için değişkenlere değil de property kısmındaki adlara ulaşabiliriz ve o adları kullandık(ADI,SOYADI..)
 
             Notlar ntl = new Notlar();  //Notlar class ı nı newleyerek ntl adında nesne oluşturduk
             ntl.sinav1 = Convert.ToInt32(textBox4.Text);
@@ -31,7 +31,7 @@ namespace Uygulama_2
             ntl.Ortalama = (ntl.sinav1 + ntl.sinav2 + ntl.sinav3) / 3;
             textBox7.Text = ntl.Ortalama.ToString();
 
-            listBox1.Items.Add(ogr.ad + " " + ogr.soyad + " " + ogr.kulup + " Ortalama: " + ntl.Ortalama);
+            listBox1.Items.Add(ogr.ADI + " " + ogr.SOYADI + " " + ogr.KULUBU + " Ortalama: " + ntl.Ortalama);
         }
     }
 }
